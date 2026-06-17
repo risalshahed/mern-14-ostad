@@ -3,7 +3,7 @@
 ## Documents
 
 ### [SSL Commerz Integration](https://developer.sslcommerz.com/doc/v4)
-### [SSL Commerz LTS Package](https://developer.sslcommerz.com/doc/v4)
+### [SSL Commerz LTS Package](https://www.npmjs.com/package/sslcommerz-lts)
 
 ## Download & Run the Project
 
