@@ -26,3 +26,9 @@ npm i
 ```bash
 npm run dev
 ```
+
+### Add a Payment Gateway Method
+
+```bash
+POST http://localhost:5000/pay
+```
