@@ -56,4 +56,4 @@ npm run dev
 * Callback Hell
 * Promise
 * Async Await
-*[ Web APIs](https://www.w3schools.com/JSREF/api_web.asp) (fetch, setTimeout, Storage API etc.)
+* [ Web APIs](https://www.w3schools.com/JSREF/api_web.asp) (fetch, setTimeout, Storage API etc.)
