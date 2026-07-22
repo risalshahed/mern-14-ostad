@@ -1,7 +1,5 @@
 # Dynamic Portfolio
 
-## Documents
-
 ## Download & Run the Project
 
 ### Clone the Repository
@@ -24,31 +22,38 @@ npm i
 npm run dev
 ```
 
-## Folder Structure
-dynamic-portfolio
-│
-├── app
-│   ├── layout.js
-│   ├── page.js
-│   └── globals.css
-│
-├── components
-│   ├── Navbar.jsx
-│   ├── Hero.jsx
-│   ├── About.jsx
-│   ├── Skills.jsx
-│   ├── Projects.jsx
-│   ├── ProjectCard.jsx
-│   ├── Contact.jsx
-│   ├── Modal.jsx
-│   ├── Footer.jsx
-│
-│
-├── data
-│   └── projects.js
-│
-├── public
-│
-├── package.json
-└── next.config.mjs
+## React Topics You Should Feel, Learn & Implement
+* Library vs Framework
+* Why React in Web Development?
+* React Diffing Algorithm or Reconciliation
+* Why key is used while using map method on an array inside react? Is there any problem if I use the index of an array as key?
+* Rendering & Re-Rendering of a React Component
+* Component Mount & Unmount. Lifecycle Method
+* State & Props
+* Hooks
+* Escape Hatching
+* useRef, inputRef, forwardRef
+* Immutably Update State, useState
+* Side Effects
+* useEffect vs useLayoutEffect
+* Memory Leaking Problem & Stopping it when A Component Unmounts
 
+## JavaScript Topics You Should Feel, Learn & Implement
+* Memory Allocation, Code Execution
+* Call Stack
+* Hoisting
+* What does an Empty JavaScript File possess?
+* Functions, Simple Function Definition vs Arrow Function
+* Scope
+* let, const, temporal dead zone
+* Lexical Environment
+* Closure
+* Higher Order Function
+* Asynchronous JavaScript
+* Event Loop
+* Callback Function
+* map, filter, reduce, find
+* Callback Hell
+* Promise
+* Async Await
+*[ Web APIs](https://www.w3schools.com/JSREF/api_web.asp) (fetch, setTimeout, Storage API etc.)
