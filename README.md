@@ -7,6 +7,11 @@
 git clone https://github.com/risalshahed/mern-14-ostad.git
 ```
 
+### Go Inside the Directory
+```bash
+git clone mern-14-ostad
+```
+
 ### Switch to the Branch
 ```bash
 git switch module-23-dynamic-portfolio
