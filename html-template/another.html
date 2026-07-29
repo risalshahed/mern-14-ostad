@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Portfolio</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+
+    /* useEffect vs useLayoutEffect (Advanced)
+
+    why rem is used over pixel (Intermediate, Good to Know for Beginners)
+
+    CSS Logical Properties (Advanced) */
+
+
+    html {
+        /* font-size: 10px;    1rem = 10px */
+    }
+
+    .abc {
+        font-size: 2rem;
+        margin: 24px;
+    }
+    .def {
+        font-size: 32px;
+        margin: 24px;
+    }
+
+    ._123 {
+        /* background-color: salmon; */
+        height: 300px;
+        font-size: 3rem;
+        /* margin-left: 4rem; */
+        /* margin-inline-end: 4rem; */
+        margin-inline-start: 4rem;
+    }
+  </style>
+
+</head>
+<body class="bg-gray-100">
+    <div>
+        <h2 class="abc">
+            Lorem ipsum dolor sit amet by rem
+        </h2>
+        <h2 class="def">
+            Lorem ipsum dolor sit amet by pixel
+        </h2>
+        <h2 class="_123">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eveniet iure quod maxime, odit est, assumenda iste, quasi omnis ipsum quo odio. Vitae asperiores odio hic consequuntur est eveniet officiis nobis!
+        </h2>
+    </div>
+
+</body>
+</html>
