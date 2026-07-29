@@ -1,4 +1,4 @@
-# Dynamic Portfolio
+# Convert HTML Template to React
 
 ## Download & Run the Project
 
@@ -14,7 +14,7 @@ cd mern-14-ostad
 
 ### Switch to the Branch
 ```bash
-git switch module-23-dynamic-portfolio
+git switch module-28-html-to-react
 ```
 
 ### Install Dependencies
